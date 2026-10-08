@@ -12,7 +12,7 @@ A graduate-level course (3 credits, theoretical) designed with a dual focus on *
 | Item | Details |
 |------|---------|
 | **Course Title** | Intelligent Electric Energy Networks (شبکه‌های هوشمند انرژی الکتریکی) |
-| **Level** | M.Sc. in Electrical Engineering (Power / Energy Systems) |
+| **Level** | M.Sc. & Ph.D. in Electrical Engineering (Power / Energy Systems) |
 | **Credits** | 3 Theoretical Units (۳ واحد نظری) |
 | **Prerequisites** | None (Basic familiarity with power system analysis and Python/MATLAB recommended) |
 | **Duration** | 16 Weeks (۱۶ هفته) |
@@ -129,47 +129,7 @@ Writing a technical report similar to a paper, including:
 
 ---
 
-## 📁 Repository Structure | ساختار مخزن
 
-```
-smart-grid-course/
-├── README.md
-├── requirements.txt
-├── syllabus/
-│   ├── course_outline.pdf
-│   └── weekly_schedule.md
-├── lectures/
-│   ├── week01/
-│   │   ├── slides.pdf
-│   │   └── notes.md
-│   ├── week02/
-│   └── ...
-├── assignments/
-│   ├── assignment01/
-│   │   ├── problem_statement.md
-│   │   └── solution/
-│   └── ...
-├── projects/
-│   ├── sample_projects.md
-│   └── templates/
-│       ├── proposal_template.md
-│       └── paper_template.md
-├── code/
-│   ├── python/
-│   │   ├── load_forecasting.py
-│   │   ├── dr_optimization.py
-│   │   └── ...
-│   └── matlab/
-│       ├── microgrid_sim.m
-│       └── ...
-├── datasets/
-│   └── README.md
-└── resources/
-    ├── papers/
-    └── tools.md
-```
-
----
 
 ## 🚀 Getting Started | شروع به کار
 
